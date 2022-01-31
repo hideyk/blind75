@@ -1,7 +1,7 @@
 Curated list of Blind 75 problems:
 
 ## Array
-:heavy_check_mark: Two Sum
+✅ Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
