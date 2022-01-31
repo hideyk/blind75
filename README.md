@@ -1,7 +1,7 @@
 Curated list of Blind 75 problems:
 
 ## Array
-- [ x ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
