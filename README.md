@@ -1,9 +1,9 @@
-Curated list of Blind 75 problems:
+Curated list of [Blind 75 problems](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions):
 
 ## Array
 ✅ Two Sum
-- [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+✅ Best Time to Buy and Sell Stock
+✅ Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
@@ -53,7 +53,7 @@ Curated list of Blind 75 problems:
 - [ ] Meeting Rooms II (Leetcode Premium)
 
 ## Linked List
-- [ ] Reverse a Linked List
+✅ Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Merge K Sorted Lists
