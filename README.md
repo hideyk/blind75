@@ -46,7 +46,7 @@ Curated list of [Blind 75 problems](https://leetcode.com/discuss/general-discuss
 - [ ] Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
 ## Interval
-- [ ] Insert Interval
+✅ Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms (Leetcode Premium)
