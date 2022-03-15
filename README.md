@@ -36,8 +36,8 @@ Curated list of [Blind 75 problems](https://leetcode.com/discuss/general-discuss
 
 
 ## Graph
-- [ ] Clone Graph
-- [ ] Course Schedule
+✅ Clone Graph
+✅ Course Schedule
 - [ ] Pacific Atlantic Water Flow
 - [ ] Number of Islands
 - [ ] Longest Consecutive Sequence
