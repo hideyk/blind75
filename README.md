@@ -61,7 +61,7 @@ Curated list of [Blind 75 problems](https://leetcode.com/discuss/general-discuss
 - [ ] Reorder List
 
 ## Matrix
-- [ ] Set Matrix Zeroes
+✅ Set Matrix Zeroes
 - [ ] Spiral Matrix
 - [ ] Rotate Image
 - [ ] Word Search
@@ -94,3 +94,9 @@ Curated list of [Blind 75 problems](https://leetcode.com/discuss/general-discuss
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Add and Search Word
 - [ ] Word Search II
+
+
+## Heap
+✅ Merge K Sorted Lists
+- [ ] Top K Frequent Elements
+- [ ] Find Median from Data Stream
